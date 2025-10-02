@@ -1,0 +1,39 @@
+body{
+    background-image: url(/img.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.parent{
+    height: 410px;
+    width: 300px;
+    background-color: rgb(244, 195, 136);
+    
+    
+}
+.coffee{
+    font-size: small;
+    display: flex;
+    margin-left: 20px;
+    
+}
+.dessert{
+    font-size: small;
+    display: flex;
+    margin-left: 20px;
+}
+.price{
+    display: flex;
+    margin-left: 99px;
+}
+.price2 {
+    display: flex;
+    margin-left: 130px;
+
+}
+img{
+    height: 30px;
+}
